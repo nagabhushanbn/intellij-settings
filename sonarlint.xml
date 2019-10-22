@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://pipeline.altimetrik.com/sonarqube" />
+          <option name="name" value="sonar qube" />
+          <option name="login" value="playground" />
+          <password>dffadfeadfd9dfd9dfdddf9adfd8dfcedf9bdf8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

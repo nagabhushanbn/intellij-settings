@@ -1,0 +1,44 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="1054" />
+        <option name="firstUsage" value="1554455628732" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+        <option name="lastNaggingDate" value="1557403097602" />
+      </DonationNagger>
+    </option>
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1555395210828" />
+          <option name="name" value="playground-social" />
+          <option name="pathToConfigFileJava" value="D:/platform/config/formatter/playground_formatter.xml" />
+          <option name="selectedJavaProfile" value="playground_formatter" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1557985918416" />
+          <option name="name" value="new" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1557985966413" />
+          <option name="name" value="new (1)" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1557986064246" />
+          <option name="name" value="new (2)" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1557986069811" />
+          <option name="importOrderConfigFilePath" value="D:/platform/config/formatter/playground_formatter.xml" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="playground-coach-certification" />
+          <option name="pathToConfigFileJava" value="D:/platform/config/formatter/playground_formatter.xml" />
+          <option name="selectedJavaProfile" value="playground_formatter" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

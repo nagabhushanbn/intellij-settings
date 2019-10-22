@@ -1,0 +1,46 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="playground-innovation">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="playground-innovation" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="playground-innovation_playground-innovation">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="playground-innovation" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="testDirectoryRoot" value="src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="4f4a2c3a-3937-47f9-9a6b-93d4a3c79e27" />
+  </component>
+</application>
