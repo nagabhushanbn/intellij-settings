@@ -38,6 +38,10 @@
           <option name="url" value="https://git.altimetrik.com/bitbucket/scm/pg/playground-agile-integration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.altimetrik.com/bitbucket/scm/pg/playground-integration-agile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\zzz" />
