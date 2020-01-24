@@ -24,8 +24,7 @@
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="StreamTracerAction">
-    <keyboard-shortcut first-keystroke="alt s" />
-    <mouse-shortcut keystroke="shift control alt button142" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
