@@ -1,31 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://git.altimetrik.com" />
-          <option name="userName" value="nagabhushan" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="umeshbs@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/nagabhushanbn/picocli.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.altimetrik.com/bitbucket/scm/pg/playground-service-gateway.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.altimetrik.com/bitbucket/scm/pg/playground-integration-agile.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="D:\workspace\playground" />
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
