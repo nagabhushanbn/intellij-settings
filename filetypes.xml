@@ -4,8 +4,8 @@
       <mapping pattern="Jenkinsfile-migration" type="Groovy" />
       <mapping pattern="Jenkinsfile-migration2" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".env.newdev" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.newdev" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
