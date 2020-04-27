@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".env.newdev" type="PLAIN_TEXT" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
