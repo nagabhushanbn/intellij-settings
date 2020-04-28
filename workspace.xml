@@ -5,7 +5,6 @@
       <JAVA.JavaLens>
         <JavaLensSettings>
           <option name="showImplementations" value="true" />
-          <option name="showUsages" value="true" />
         </JavaLensSettings>
       </JAVA.JavaLens>
     </settingsMapElement>
