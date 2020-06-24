@@ -11,16 +11,18 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorScrollUp">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <mouse-shortcut keystroke="alt button143" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Pacman.PacmanAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="ScrollPane-scrollDown">
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="ScrollPane-scrollUp">
+    <mouse-shortcut keystroke="alt button143" />
+  </action>
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="StreamTracerAction">
