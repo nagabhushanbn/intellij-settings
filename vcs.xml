@@ -18,6 +18,10 @@
           <option name="url" value="https://git.altimetrik.com/bitbucket/scm/plf-mod/plf-config-store.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.altimetrik.com/bitbucket/scm/plf-cr/plf-keycloak-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workspace\playground\PLATFORM\QA" />
