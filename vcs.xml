@@ -26,9 +26,13 @@
           <option name="url" value="https://git.altimetrik.com/bitbucket/scm/plf-mod/plf-devops-integration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.altimetrik.com/bitbucket/scm/plf-mod/plf-agile-integration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/PLATFORM/Dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
