@@ -6,8 +6,8 @@
       <mapping pattern="test" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".env.newdev" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
