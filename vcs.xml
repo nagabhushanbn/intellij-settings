@@ -34,6 +34,14 @@
           <option name="url" value="https://github.com/kubernetes-client/java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-techstack-alb-1661650161.us-east-1.elb.amazonaws.com/devdemouser/javawithspringboot-defaultworkstream-dep_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-techstack-alb-1661650161.us-east-1.elb.amazonaws.com" />
+          <option name="userName" value="devdemouser@mailinator.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/samples" />
