@@ -3,5 +3,7 @@
     <ignoreAction name="Java/Declaration/Add Javadoc" />
     <ignoreAction name="Java/Imports/Add Single-Member Static Import" />
     <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="Lombok/Replace explicit type with 'val' (Lombok)" />
+    <ignoreAction name="Lombok/Replace explicit type with 'var' (Lombok)" />
   </component>
 </application>
