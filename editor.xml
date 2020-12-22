@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
@@ -15,6 +16,17 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />

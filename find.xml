@@ -13,6 +13,13 @@
     <mask>*.sql</mask>
     <mask>*demo.*</mask>
     <mask>*entity.*</mask>
+    <mask>*Repo*.*</mask>
     <mask>*control*.*</mask>
+    <mask>*idp*</mask>
+    <mask>*entity*</mask>
+    <mask>*sql*</mask>
+    <mask>*contro*</mask>
+    <mask>*repo*</mask>
+    <mask>*repository.java</mask>
   </component>
 </application>
