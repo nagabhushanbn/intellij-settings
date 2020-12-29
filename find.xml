@@ -21,5 +21,6 @@
     <mask>*contro*</mask>
     <mask>*repo*</mask>
     <mask>*repository.java</mask>
+    <mask>*devops*</mask>
   </component>
 </application>
