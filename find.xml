@@ -24,5 +24,6 @@
     <mask>*repository.java</mask>
     <mask>*devops*</mask>
     <mask>*sql*</mask>
+    <mask>*enum*</mask>
   </component>
 </application>
