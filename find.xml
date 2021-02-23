@@ -17,9 +17,11 @@
     <mask>*control*.*</mask>
     <mask>*idp*</mask>
     <mask>*entity*</mask>
-    <mask>*sql*</mask>
     <mask>*contro*</mask>
     <mask>*repo*</mask>
     <mask>*repository.java</mask>
+    <mask>*devops*</mask>
+    <mask>*sql*</mask>
+    <mask>*enum*</mask>
   </component>
 </application>
