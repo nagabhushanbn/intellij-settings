@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile-migration" type="Groovy" />
       <mapping pattern="Jenkinsfile-migration2" type="Groovy" />
       <mapping pattern="test" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env.newdev" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
@@ -17,8 +19,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
