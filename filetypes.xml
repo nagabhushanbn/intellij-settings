@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile-migration" type="Groovy" />
       <mapping pattern="Jenkinsfile-migration2" type="Groovy" />
       <mapping pattern="test" type="JSON" />
